@@ -1,0 +1,77 @@
+Jandson Fahel Oliveira de Freitas
+Informações Pessoais
+jfahelof@outlook.com
+ —
+ +55 (74) 99133-6087
+ —
+ LinkedIn
+ —
+ GitHub
+Experiência Profissional
+Fı́sico com experiência em modelagem matemática, otimização e simulação computacional de sistemas
+complexos. Desenvolve algoritmos em Python para problemas de logı́stica, pesquisa operacional e análise
+de redes. Atua com modelagem de trajetórias, otimização de rotas e simulações de busca estocástica.
+Experiência em análise de dados, escrita técnica e interpretação cientı́fica.
+Formação Acadêmica e Certificação
+ Doutorando em Fı́sica (2024 - atualmente)
+Universidade Federal de Viçosa (UFV)
+Tema: Dinâmica de propagação e busca em redes complexas e sistemas logı́sticos.
+ Mestrado em Fı́sica Teórica e Computacional (2022 - 2024)
+Universidade Federal de Pernambuco (UFPE)
+Dissertação: O problema dos anéis em buscas aleatórias em duas dimensões.
+Bacharelado em Fı́sica (2017 - 2022)
+Universidade Federal de Sergipe (UFS)
+Monografia: Método das Caracterı́sticas para solução da Equação de Fokker-Planck.
+Experiência Acadêmica e Projetos Relevantes
+ Grupo de Investigação em Sistemas Complexos – Departamento de Fı́sica, UFV
+- Desenvolvimento de simulações de caminhadas aleatórias em redes, aplicáveis a problemas logı́sticos
+e de roteirização.
+- Estudo do tempo de primeira passagem e otimização de trajetórias em sistemas complexos, visando
+maximizar a eficiência de buscas.
+- Apresentação de resultados em congressos e simpósios acadêmicos, com foco em difusão, es-
+tratégias de busca e transporte em redes complexas.
+ Projeto: Otimização de Rotas com Caminhadas Aleatórias Generalizadas
+- Simulação de processos de busca com saltos distribuı́dos por lei de potência em grafos reais e
+gerados numericamente.
+- Análise do impacto da topologia da rede sobre tempo médio de entrega e cobertura.
+- Implementação de algoritmos em Python utilizando NumPy, Matplotlib e análise de dados com
+Pandas.
+Habilidades Técnicas
+Programação e Análise de Dados: C, Python (NumPy, Pandas, Matplotlib, Scikit-Learn,
+Seaborn, Folium, Osmnx, NetworkX, SciPy), SQL (em aprendizado)
+1
+ Matemática e Estatı́stica: Álgebra Linear, Cálculo Diferencial e Integral, Estatı́stica Descritiva
+e Inferencial, Probabilidade, Processos Estocásticos, Modelagem Matemática de Sistemas
+ Otimização e Modelagem: Modelagem matemática e computacional de sistemas complexos;
+desenvolvimento de algoritmos de otimização em grafos e espaço contı́nuo; pesquisa operacional
+aplicada à logı́stica; simulações estocásticas; análise de trajetórias e tempo de primeira passagem
+em redes; implementação de modelos para eficiência em transporte e navegação.
+Ferramentas e Versionamento: Git, GitHub, LaTeX
+Leitura Cientı́fica: Leitura e implementação de artigos cientı́ficos em problemas computacionais
+Idiomas: Inglês intermediário (leitura técnica avançada, conversação em desenvolvimento)
+Produção Cientı́fica
+Bibiano-Filho, A. S.; Freitas, J. F. O.; da Luz, M. G. E.; Viswanathan, G. M.; Raposo, E. P. (2025).
+Random Search Walks Inside Absorbing Annuli. Entropy, 27(7), 758.
+DOI: 10.3390/e27070758
+O artigo investiga estratégias de busca eficientes em meios confinados, tema com aplicações diretas
+em otimização e transporte.
+Certificações e Cursos
+Python para Fı́sicos (8 horas) – Introdução à computação cientı́fica aplicada
+Ciência de Dados com Python – Em andamento (curso próprio com foco em portfólio prático)
+Portfólio Técnico
+Tı́tulo: Modelagem e Otimização em Redes Complexas
+Descrição: Conjunto de projetos que unem modelagem matemática, análise de dados e otimização
+aplicada a redes reais e simuladas. Os trabalhos envolvem:
+ Análise de redes reais (Wikipédia e malha viária urbana) com métricas de grau, distância e
+agrupamento.
+Desenvolvimento de algoritmos de otimização logı́stica para identificar o ponto que mini-
+miza distâncias em sistemas de transporte.
+ Integração de mapas reais utilizando as bibliotecas OpenStreetMap e NetworkX para criação
+de rotas otimizadas e visualização interativa.
+Implementação de modelo cientı́fico baseado em Riascos & Mateos (Phys. Rev. E, 2012),
+simulando buscas aleatórias generalizadas em redes complexas.
+Tecnologias: Python (NumPy, Pandas, Matplotlib, NetworkX, OSMnx, Folium, Seaborn, ImageIO)
+Disponı́vel em: https://github.com/jfahelof/portfolio-jandson-fahel-otimiza-o
+Publicações e Apresentações
+Apresentações em eventos nacionais e regionais com foco em modelagem, transporte e difusão em redes
+complexas (trabalhos orais e pôsteres).
